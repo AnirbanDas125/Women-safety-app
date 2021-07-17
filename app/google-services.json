@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "424751095294",
+    "project_id": "register-yourself-aa3d9",
+    "storage_bucket": "register-yourself-aa3d9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:424751095294:android:db4672357db2603cf6f4af",
+        "android_client_info": {
+          "package_name": "com.example.registeryourself"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "424751095294-472091pbug2jqj4qc8fhtb8v5vt1lt5l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3mtFZUOg667r4GDZRZBEEQ3gSakkIu2s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "424751095294-472091pbug2jqj4qc8fhtb8v5vt1lt5l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

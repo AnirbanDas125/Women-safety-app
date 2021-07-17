@@ -1,0 +1,18 @@
+<resources>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="register">REGISTER</string>
+    <string name="college_id">College ID</string>
+    <string name="log_in">log in</string>
+    <string name="already_a_user_then">already a User?Then</string>
+    <string name="password">Password</string>
+    <string name="email">email</string>
+    <string name="new_user_then_register">New User?Then Register</string>
+    <string name="reset_password">Reset Password</string>
+    <string name="title_activity_my_location">Map</string>
+    <string name="title_activity_map_view">Map</string>
+    <string name="phone_no">Phone no.</string>
+    <string name="contact_name">Contact Name</string>
+    <string name="save">save</string>
+    <string name="app_name">Maze</string>
+</resources>
